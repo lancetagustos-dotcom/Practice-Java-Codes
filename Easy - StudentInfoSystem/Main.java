@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
 		Scanner jw = new Scanner(System.in);
-
+		System.out.println("Problem Set 2: Student Information System\n");
+		
 		System.out.println("Enter your name: ");
 		String name = jw.nextLine();
 		System.out.println("Enter your ID Number: ");
